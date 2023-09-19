@@ -1,2 +1,2 @@
-# Progress-Step
-Progress step with vanilla JS 🔥
+# Progress Steps
+Progress steps with vanilla JS 🔥
